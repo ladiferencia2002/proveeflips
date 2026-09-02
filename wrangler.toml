@@ -1,0 +1,5 @@
+name = "proveeflips"
+compatibility_date = "2026-09-02"
+
+[assets]
+directory = "."
